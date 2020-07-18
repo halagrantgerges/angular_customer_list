@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 80.0.3987 (Linux 0.0.0)" package="unit" timestamp="2020-07-16T15:48:24" id="0" hostname="thinkpad2" tests="5" errors="0" failures="0" time="0.228">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/80.0.3987.132 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should create a dependency between the main table and info table" time="0.113" classname="unit.AppComponent"/>
+  <testcase name="InfoComponent should render all the information fields" time="0.039" classname="unit.InfoComponent"/>
+  <testcase name="InfoComponent should change fields with button click" time="0.032" classname="unit.InfoComponent"/>
+  <testcase name="TableComponent should return slug on button click" time="0.023" classname="unit.TableComponent"/>
+  <testcase name="TableComponent should display all the customers" time="0.021" classname="unit.TableComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
